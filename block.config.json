@@ -12,5 +12,7 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "dependencies": {},
+  "version": "0.0.1"
 }
